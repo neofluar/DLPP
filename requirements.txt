@@ -1,3 +1,6 @@
+matplotlib
 notebook
 numpy
+opencv-python
+Pillow
 tensorflow
