@@ -3,4 +3,5 @@ notebook
 numpy
 opencv-python
 Pillow
+scipy
 tensorflow
